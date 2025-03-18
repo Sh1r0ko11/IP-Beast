@@ -27,10 +27,10 @@ Welcome to the **Multi-Function IP Tool Suite**, a powerful and versatile toolki
 ## Screenshots
 
 ### IP Scanner GUI
-![IP Scanner GUI](https://github.com/user-attachments/assets/d878e371-a2ff-4950-bca5-10c43e0bf16e)
+![IP Scanner GUI](https://via.placeholder.com/800x400.png?text=IP+Scanner+GUI)
 
 ### DoS Testing Tool GUI
-![DoS Testing Tool GUI](https://github.com/user-attachments/assets/f2cdee81-be53-4b5c-9430-ef62db496ada)
+![DoS Testing Tool GUI](https://via.placeholder.com/800x400.png?text=DoS+Testing+Tool+GUI)
 
 ---
 
@@ -71,7 +71,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## Banner
-![Banner](https://via.placeholder.com/1200x300.png?text=Multi-Function+IP+Tool+Suite+-+Ethical+Network+Testing+Made+Easy)
+<div align="center">
+  <img src="https://via.placeholder.com/1200x300.png?text=Multi-Function+IP+Tool+Suite+-+Ethical+Network+Testing+Made+Easy" alt="Banner" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+</div>
 
 ---
 
@@ -81,3 +83,25 @@ For support, questions, or feedback, please open an issue or contact us at **sup
 ---
 
 **Disclaimer:** This software is provided "as-is" without any warranties. Use at your own risk.
+
+---
+
+## Animations and Effects
+
+Here’s an example of how you can add animations using HTML/CSS in Markdown:
+
+```html
+<div align="center">
+  <img src="https://via.placeholder.com/800x400.png?text=Animated+Banner" alt="Animated Banner" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); animation: float 3s ease-in-out infinite;">
+</div>
+
+<style>
+  @keyframes float {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+</style>
