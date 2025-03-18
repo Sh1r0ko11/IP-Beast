@@ -26,10 +26,12 @@ Welcome to the **Multi-Function IP Tool Suite**, a powerful and versatile toolki
 ## Screenshots
 
 ### IP Scanner GUI
-![IP Scanner GUI](https://via.placeholder.com/800x400.png?text=IP+Scanner+GUI)
+![Screenshot 2025-03-19 044644](https://github.com/user-attachments/assets/d878e371-a2ff-4950-bca5-10c43e0bf16e)
+
 
 ### DoS Testing Tool GUI
-![DoS Testing Tool GUI](https://via.placeholder.com/800x400.png?text=DoS+Testing+Tool+GUI)
+
+![Screenshot 2025-03-19 044656](https://github.com/user-attachments/assets/f2cdee81-be53-4b5c-9430-ef62db496ada)
 
 ---
 
