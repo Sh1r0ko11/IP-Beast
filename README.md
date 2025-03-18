@@ -71,13 +71,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## Banner
-<div align="center">
-  <img src="https://blog.pango.education/hubfs/Coding%20Blog%20Image.jpg" alt="Banner" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); width: 100%; max-width: 1200px;">
-</div>
-
-
----
 
 **Disclaimer:** This software is provided "as-is" without any warranties. Use at your own risk.
 
@@ -96,5 +89,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 </div>
 
 ---
-
-Let me know if you need further adjustments! 🛠️
