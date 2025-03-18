@@ -75,10 +75,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
   <img src="https://blog.pango.education/hubfs/Coding%20Blog%20Image.jpg" alt="Banner" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); width: 100%; max-width: 1200px;">
 </div>
 
----
-
-## Support
-For support, questions, or feedback, please open an issue or contact us at **support@ethicaltools.com**.
 
 ---
 
@@ -88,12 +84,12 @@ For support, questions, or feedback, please open an issue or contact us at **sup
 
 ## Tools in Action
 
-### IP Scanner
+### made in
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="IP Scanner Icon" style="width: 150px; height: 150px;">
 </div>
 
-### DoS Testing Tool
+### owner of the tool
 <div align="center">
   <img src="https://static.wikia.nocookie.net/mr-robot/images/0/0a/Elliot_Alderson.jpg/revision/latest?cb=20161109092325&path-prefix=de" alt="DoS Tool Icon" style="width: 150px; height: 150px; border-radius: 10px;">
 </div>
