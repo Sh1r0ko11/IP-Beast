@@ -4,7 +4,7 @@ Welcome to the **Multi-Function IP Tool Suite**, a powerful and versatile toolki
 
 ![github-header-image](https://github.com/user-attachments/assets/197328d3-1c2e-45ff-a88a-b2c822bbf934)
                 
-Zero mercy. Zero installation. Total destruction.
+Zero mercy. Zero installation. Total (destruction).
 
 ## Features
 
