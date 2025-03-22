@@ -56,7 +56,7 @@ The Data Grabber captures and analyzes network traffic, extracting valuable meta
 
 ## Getting Started
 
-1. **Download the `.exe` files** from the [Releases](https://github.com/yourusername/multi-function-ip-tool-suite/releases) section.
+1. **Download the `.exe` files** from the [Releases](https://github.com/Sh1r0ko11/IP-Beast/releases) section.
 2. **Run the executables** directly—no installation required!
 3. Explore the tools using their intuitive GUIs.
 
