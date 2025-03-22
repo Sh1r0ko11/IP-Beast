@@ -35,8 +35,11 @@ Zero mercy. Zero installation. Total destruction.
 ### DoS Testing Tool GUI
 ![DoS Testing Tool GUI](https://github.com/user-attachments/assets/f2cdee81-be53-4b5c-9430-ef62db496ada)
 
+### DDoS Testing Tool GUI
+![Screenshot 2025-03-22 090340](https://github.com/user-attachments/assets/bab8d711-7bd3-48f3-a36b-ab690ed43ded)
 
 ---
+
 
 ## How It Works
 
