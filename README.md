@@ -21,8 +21,7 @@ Zero mercy. Zero installation. Total destruction.
 
 ### 3. **Data Grabber**
 - Extract metadata and information from network packets.
-- Analyze and visualize network traffic patterns.
-- Save captured data for further analysis.
+- can grabb Ips from custom urls! (IP Grabber)
 
 ---
 
